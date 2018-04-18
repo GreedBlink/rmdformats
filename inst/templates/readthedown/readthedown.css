@@ -40,8 +40,8 @@
 }
 
 #main .nav-pills > li > a {
-    background-color: #443c2f;
-    background-image: url(images/teste_background_abpo.png);
+    background-color: #EEEEEE;
+    background-image: none;
     background-position: 0 0;
 }
 
@@ -826,7 +826,8 @@ hr{
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#9F2042;
+    background-color: #443c2f;
+    background-image: url("images/teste_background_abpo.png");
     text-align:center;
     padding:0.809em;
     display:block;

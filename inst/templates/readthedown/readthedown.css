@@ -40,8 +40,8 @@
 }
 
 #main .nav-pills > li > a {
-    background-color: #EEEEEE;
-    background-image: none;
+    background-color: #443c2f;
+    background-image: url(teste_background_abpo.png);
     background-position: 0 0;
 }
 
